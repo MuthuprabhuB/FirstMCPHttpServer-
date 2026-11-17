@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FirstMCPHttpServer/FirstMCPHttpServer.csproj" />
+  <Project Path="MCPHostApp/MCPHostApp.csproj" />
+</Solution>
